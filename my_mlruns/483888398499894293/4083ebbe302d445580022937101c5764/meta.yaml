@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\Usuario\Documents\GitHub\PRE-08-mlflow-tracking-local-ManuelaGrandaMunoz99\my_mlruns/483888398499894293/4083ebbe302d445580022937101c5764/artifacts
+end_time: 1748100559255
+entry_point_name: ''
+experiment_id: '483888398499894293'
+lifecycle_stage: active
+run_id: 4083ebbe302d445580022937101c5764
+run_name: knn_92fd7a79
+run_uuid: 4083ebbe302d445580022937101c5764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100559037
+status: 3
+tags: []
+user_id: Usuario
